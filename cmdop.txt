@@ -1,0 +1,137 @@
+PS C:\Users\MA\code\Vehicle-Detection-And-Speed-Tracking> py .\speed_check.py
+Creating new tracker 0
+Creating new tracker 1
+Creating new tracker 2
+Creating new tracker 3
+Creating new tracker 4
+Creating new tracker 5
+Creating new tracker 6
+Creating new tracker 7
+Creating new tracker 8
+Creating new tracker 9
+Removing carID 0 from list of trackers.
+Removing carID 0 previous location.
+Removing carID 0 current location.
+Creating new tracker 10
+Removing carID 5 from list of trackers.
+Removing carID 5 previous location.
+Removing carID 5 current location.
+Removing carID 4 from list of trackers.
+Removing carID 4 previous location.
+Removing carID 4 current location.
+Creating new tracker 11
+Creating new tracker 12
+Creating new tracker 13
+Creating new tracker 14
+Removing carID 8 from list of trackers.
+Removing carID 8 previous location.
+Removing carID 8 current location.
+Creating new tracker 15
+Creating new tracker 16
+Removing carID 7 from list of trackers.
+Removing carID 7 previous location.
+Removing carID 7 current location.
+Creating new tracker 17
+Removing carID 9 from list of trackers.
+Removing carID 9 previous location.
+Removing carID 9 current location.
+Removing carID 6 from list of trackers.
+Removing carID 6 previous location.
+Removing carID 6 current location.
+Creating new tracker 18
+Creating new tracker 19
+Removing carID 14 from list of trackers.
+Removing carID 14 previous location.
+Removing carID 14 current location.
+Creating new tracker 20
+Creating new tracker 21
+Removing carID 21 from list of trackers.
+Removing carID 21 previous location.
+Removing carID 21 current location.
+Creating new tracker 22
+Creating new tracker 23
+Creating new tracker 24
+Creating new tracker 25
+Creating new tracker 26
+Creating new tracker 27
+Creating new tracker 28
+Creating new tracker 29
+Creating new tracker 30
+Creating new tracker 31
+Creating new tracker 32
+Removing carID 22 from list of trackers.
+Removing carID 22 previous location.
+Removing carID 22 current location.
+Creating new tracker 33
+Removing carID 25 from list of trackers.
+Removing carID 25 previous location.
+Removing carID 25 current location.
+Creating new tracker 34
+Removing carID 18 from list of trackers.
+Removing carID 18 previous location.
+Removing carID 18 current location.
+Creating new tracker 35
+Creating new tracker 36
+Creating new tracker 37
+Creating new tracker 38
+Creating new tracker 39
+Removing carID 10 from list of trackers.
+Removing carID 10 previous location.
+Removing carID 10 current location.
+Creating new tracker 40
+Creating new tracker 41
+Creating new tracker 42
+Removing carID 38 from list of trackers.
+Removing carID 38 previous location.
+Removing carID 38 current location.
+Creating new tracker 43
+Removing carID 28 from list of trackers.
+Removing carID 28 previous location.
+Removing carID 28 current location.
+Creating new tracker 44
+Creating new tracker 45
+Creating new tracker 46
+Creating new tracker 47
+Creating new tracker 48
+Creating new tracker 49
+Removing carID 44 from list of trackers.
+Removing carID 44 previous location.
+Removing carID 44 current location.
+Removing carID 23 from list of trackers.
+Removing carID 23 previous location.
+Removing carID 23 current location.
+Removing carID 45 from list of trackers.
+Removing carID 45 previous location.
+Removing carID 45 current location.
+Creating new tracker 50
+Creating new tracker 51
+Creating new tracker 52
+Removing carID 50 from list of trackers.
+Removing carID 50 previous location.
+Removing carID 50 current location.
+Removing carID 30 from list of trackers.
+Removing carID 30 previous location.
+Removing carID 30 current location.
+Removing carID 40 from list of trackers.
+Removing carID 40 previous location.
+Removing carID 40 current location.
+Creating new tracker 53
+Removing carID 48 from list of trackers.
+Removing carID 48 previous location.
+Removing carID 48 current location.
+Removing carID 46 from list of trackers.
+Removing carID 46 previous location.
+Removing carID 46 current location.
+Removing carID 33 from list of trackers.
+Removing carID 33 previous location.
+Removing carID 33 current location.
+Removing carID 41 from list of trackers.
+Removing carID 41 previous location.
+Removing carID 41 current location.
+Removing carID 1 from list of trackers.
+Removing carID 1 previous location.
+Removing carID 1 current location.
+Removing carID 51 from list of trackers.
+Removing carID 51 previous location.
+Removing carID 51 current location.
+Creating new tracker 54
